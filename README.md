@@ -1,4 +1,4 @@
-## Welcome  😁
+## Welcome 
 
  <div>
    <a href="https://github.com/bryantqr">
